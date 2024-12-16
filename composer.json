@@ -1,5 +1,5 @@
 {
-    "name": "davedevelopment/phpmig",
+    "name": "savolgin/phpmig",
     "type": "library",
     "description": "Simple migrations system for php",
     "keywords": ["migrations", "database migrations"],
@@ -34,10 +34,5 @@
             "Phpmig": "src/"
         }
     },
-    "bin": ["bin/phpmig"],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.7.x-dev"
-        }
-    }
+    "bin": ["bin/phpmig"]
 }
